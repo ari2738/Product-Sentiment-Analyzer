@@ -1,0 +1,12 @@
+flask==3.0.3
+flask-cors==4.0.1
+flask-pymongo==2.3.0
+pymongo==4.7.2
+python-dotenv==1.0.1
+textblob==0.18.0
+selenium==4.21.0
+beautifulsoup4==4.12.3
+requests==2.32.3
+pandas==2.2.2
+numpy==1.26.4
+gunicorn==22.0.0
